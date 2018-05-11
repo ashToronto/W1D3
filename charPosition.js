@@ -15,3 +15,4 @@ var countLetters = function(input){
 }
 
 countLetters('lighthouse in the house')
+
